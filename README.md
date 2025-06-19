@@ -1,2 +1,4 @@
 # apna-college-repo
-first repo by vivek patel
+first repo from apna college
+<br>
+by apna college
